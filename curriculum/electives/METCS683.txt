@@ -1,0 +1,5 @@
+ID: METCS683
+Title: Mobile Application Development with Android
+Credits: 4
+Description: This course discusses the principles and issues associated with mobile application development using Android as the development platform. Topics covered will include Android application components (Activities, Services, Content Providers and Broadcast Receivers), ICC (Inter-component Communication), UI design, data storage, asynchronous processing, 2D graphics, and Android security. Students will develop their own apps in Java and/or Kotlin using Android Studio in their semester-long projects. Prior knowledge of Java programming is required. 
+Prerequisite: MET CS 342 OR MET CS 520 OR MET CS 521. Or instructor's consent.

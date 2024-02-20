@@ -1,0 +1,5 @@
+ID: METCS665
+Title: Software Design and Patterns
+Credits: 4
+Description: Software design principles, the object-oriented paradigm, unified modeling language; creational, structural, and behavioral design patterns;OOanalysisand design; implementation of semester project. Laboratory course
+Prerequisite: (MET CS 526 or MET CS 622) and one of the following (MET CS 341, MET CS 342, MET CS 520, or MET CS 521). Or instructor's consent.

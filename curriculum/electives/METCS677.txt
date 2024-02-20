@@ -1,0 +1,5 @@
+ID: METCS677 
+Title: Data Science with Python
+Credits: 4
+Description: Students will learn major Python tools and techniques for data analysis. There are weekly assignments and mini projects on topics covered in class. These assignments will help build necessary statistical, visualization and other data science skills for effective use of data science in a variety of applications including finance, text processing, time series analysis and recommendation systems. In addition, students will choose a topic for a final project and present it on the last day of class. 
+Prerequisite: MET CS 521 or equivalent. Or, instructor's consent

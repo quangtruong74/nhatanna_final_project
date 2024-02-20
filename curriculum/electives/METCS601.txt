@@ -1,0 +1,5 @@
+ID: METCS601 
+Title: Web Application Development
+Credits: 4
+Description: This course focuses on building core competencies in web design and development. It begins with a complete immersion into HTML essentially XHTML and Dynamic HTML (DHTML). Students are exposed to Cascading Style Sheets (CSS), as well as Dynamic CSS. The fundamentals of JavaScript language including object-oriented JavaScript is covered comprehensively. AJAX with XML and JSON are covered, as they are the primary means to transfer data from client and server.
+Prerequisite:  MET CS 200, MET CS 231, MET CS 232 or MET CS 300. Or instructor consent.

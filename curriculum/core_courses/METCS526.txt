@@ -1,0 +1,5 @@
+ID: METCS526
+Title: Data Structures and Algorithms
+Credits: 4
+Description: This course covers and relates fundamental components of programs. Students use various data structures to solve computational problems, and implement data structures using a high-level programming language. Algorithms are created, decomposed, and expressed as pseudocode. The running time of various algorithms and their computational complexity are analyzed. 
+Prerequisite: MET CS300 and either MET CS520 or MET CS521, or instructor's consent. 

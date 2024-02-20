@@ -1,0 +1,5 @@
+ID: METCS664 
+Title: Artificial Intelligence
+Credits: 4
+Description: Study of the ideas and techniques that enable computers to behave intelligently. Search, constraint propagations, and reasoning. Knowledge representation, natural language, learning, question answering, inference, visual perception, and/or problem solving. Laboratory course. 
+Prerequisite: MET CS 341, MET CS 342, MET CS 520 or MET CS 521. Or instructor's consent.

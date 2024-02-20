@@ -1,0 +1,5 @@
+ID: METCS634 
+Title: Agile Software Development
+Credits: 4
+Description: This course provides students with a comprehensive overview of the principles, processes, and practices of agile software development. Students learn techniques for initiating, planning and executing on software development projects using agile methodologies. Students will obtain practical knowledge of agile development frameworks and be able to distinguish between agile and traditional project management methodologies. Students will learn how to apply agile tools and techniques in the software development lifecycle from project ideation to deployment, including establishing an agile team environment, roles and responsibilities, communication and reporting methods, and embracing change. We also leverage the guidelines outlined by the Project Management Institute for agile project development as a framework in this course.
+Prerequisite: N/A

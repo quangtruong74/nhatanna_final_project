@@ -1,0 +1,5 @@
+ID: METCS763 
+Title: Secure Software Development
+Credits: 4
+Description: Overview of techniques and tools to develop secure software. Focus on the application security. Topics include secure software development processes, threat modeling, secure requirements and architectures, vulnerability and malware analysis using static code analysis and dynamic analysis tools, vulnerabilities in C/C++ and Java programs, Crypto and secure APIs, vulnerabilities in web applications and mobile applications, and security testing. Hands-on lab and programming exercises using current tools are provided and required. 
+Prerequisite: At least two 500- level (or above) programming-intensive computer science courses; or instructor's consent.

@@ -1,0 +1,5 @@
+ID: METCS633 
+Title: Software Quality, Testing, and Security Management
+Credits: 4
+Description: Theory and practice of security and quality assurance and testing for each step of the software development cycle.Verification vs. validation. Test case design techniques, test coverage criteria, security development and verification practices, and tools for static and dynamic analysis. Standards. Test-driven development. QA for maintenance and legacy applications. From a project management knowledge perspective, this course covers the methods, tools and techniques associated with the following processes -- Plan Quality, Perform Quality Assurance, and Perform Quality Control.
+Prerequisite: N/A

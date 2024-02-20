@@ -1,0 +1,5 @@
+ID: METCS682
+Title: Information Systems Analysis and Design
+Credit: 4
+Description: Object-oriented methods of information systems analysis and design for organizations with data- processing needs. System feasibility; requirements analysis; database utilization; Unified Modeling Language; software system architecture, design, and implementation, management; project control; and systems-level testing.
+Prerequisite: Basic programming knowledge or instructor's consent.

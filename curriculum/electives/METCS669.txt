@@ -1,0 +1,5 @@
+ID: METCS669 
+Title: Database Design and Implementation for Business
+Credits: 4
+Description: Students learn the latest relational and object-relational tools and techniques for persistent data and object modeling and management. Students gain extensive hands- on experience using Oracle or Microsoft SQL Server as they learn the Structured Query Language (SQL) and design and implement databases. Students design and implement a database system as a term project. Restrictions This course may not be taken in conjunction with MET CS 469 (undergraduate) or MET CS 579. Only one of these courses can be counted towards degree requirements.
+Prerequisite: N/A

@@ -1,0 +1,5 @@
+ID: METCS767 
+Title: Advanced Machine Learning and Neural Networks
+Credits: 4
+Description: Formerly titled CS767 Machine Learning. Theories and methods for learning from data. The course covers a variety of approaches, including Supervised and Unsupervised Learning, Neural Nets and Deep Learning, Adversarial Learning, Bayesian Learning, and Genetic Algorithms. Each student focuses on two of these approaches and creates a term project. Laboratory course. 
+Prerequisite: MET CS 521 and either MET CS 622, MET CS 673 or MET CS 682. MET CS 677 is strongly recommended. Or, instructor's consent

@@ -1,0 +1,5 @@
+ID: METCS673
+Title: Software Engineering
+Credits: 4
+Description: Overview of techniques and tools to develop high quality software. Topics include software development life cycle such as Agile and DevOps, requirements analysis, software design, programming techniques, refactoring, testing, as well as software management issues. This course features a semester-long group project where students will design and develop a real world software system in groups using Agile methodology and various SE tools, including UML tools, project management tools, programming frameworks, unit and system testing tools , integration tools and version control tools.
+Prerequisite: This is a capstone course to be taken after at least two programming intensive courses toward the end of a program of study. Familiarity with OO design concepts and proficiency in at least one high-level programming language is required. Or, Instructor's consent. Familiarity with web or mobile application development preferred.

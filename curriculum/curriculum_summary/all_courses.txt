@@ -1,0 +1,23 @@
+Core courses:
+(Five courses/20 credits)
+METCS521 Information Structures with Python
+METCS526 Data Structures and Algorithms
+METCS622 Advanced Programming Techniques
+METCS665 Software Design and Patterns
+Plus one of the following:
+METCS673 Software Engineering
+METCS682 Information Systems Analysis and Design
+
+Electives:
+(Three courses/12 credits)
+METCS601 Web Application Development
+METCS602 Server-Side Web Development
+METCS633 Software Quality, Testing, and Security Management
+METCS634 Agile Software Development
+METCS664 Artificial Intelligence
+METCS669 Database Design and Implementation for Business
+METCS677 Data Science with Python
+METCS683 Mobile Application Development with Android
+METCS701 Rich Internet Application Development
+METCS763 Secure Software Development
+METCS767 Advanced Machine Learning and Neural Networks
