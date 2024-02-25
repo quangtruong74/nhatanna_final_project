@@ -1,5 +1,0 @@
-Applicants are not required to have a degree in computer science for entry to a program within the Department of Computer Science. 
-Upon review of your application, the department will determine if the completion of prerequisite coursework will be required, based on your academic and professional background. 
-The following prerequisite courses may be required:
-METCS300 Introduction to Software Development
-A maximum of two graduate-level courses (8 credits) taken at Metropolitan College before acceptance into the program may be applied towards the degree.

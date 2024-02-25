@@ -1,8 +1,0 @@
-ID: METCS300 
-Title: Introduction to Software Development
-Credits: 4
-Description:
-This course introduces basic concepts in discrete mathematics, computer systems and programming that are necessary for modern computing systems. It also develops analytic and logical thinking and prepares students to take graduate-level courses in software development degree. 
-This course first reviews the basic concepts in discrete mathematics including logic, sets, functions, relations and combinatorics. Then it discusses the fundamental concepts in computer systems such as computer organization, basic OS concepts, CPU scheduling, memory management, process management and synchronization. 
-Concurrently with the above mathematics and systems studies, programming concepts are introduced and practiced throughout the whole course using Python. 
-Restriction: Not for CS undergraduate students.
